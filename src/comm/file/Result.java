@@ -4,8 +4,9 @@ public class Result {
     private Boolean found;
     private String path;
 
-    public Boolean getFound() {
-        return found;
+    public Result() {
+        found = Boolean.FALSE;
+        path = null;
     }
 
     public void setFound(Boolean found) {
@@ -18,5 +19,9 @@ public class Result {
 
     public void setPath(String path) {
         this.path = path;
+    }
+
+    public Boolean isFound() {
+        return found;
     }
 }
