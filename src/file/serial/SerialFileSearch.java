@@ -1,4 +1,4 @@
-package matrix.serial;
+package file.serial;
 
 import comm.file.Result;
 

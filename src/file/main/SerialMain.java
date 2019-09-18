@@ -1,7 +1,7 @@
-package main.file;
+package file.main;
 
 import comm.file.Result;
-import matrix.serial.SerialFileSearch;
+import file.serial.SerialFileSearch;
 
 import java.io.File;
 

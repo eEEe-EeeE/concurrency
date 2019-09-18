@@ -1,4 +1,4 @@
-package main.matrix;
+package matrix.main;
 
 import comm.matrix.MatrixGenerator;
 import matrix.serial.SerialMultiplier;

@@ -5,7 +5,7 @@ public class Result {
     private String path;
 
     public Result() {
-        found = Boolean.FALSE;
+        found = false;
         path = null;
     }
 
